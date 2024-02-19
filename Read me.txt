@@ -1,0 +1,6 @@
+Using HTML and CSS.
+Using Bootstrap getbootstrap.com
+Using Links CDN's Links.
+Using Swiper Links Swiper.com
+Using font awesome 5 cdn
+ 
